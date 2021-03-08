@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width-device iniatial-scale=1.0">
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="kaka.css">
+     <script src="sliderengine/jquery.js"></script>
+    <script src="sliderengine/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="sliderengine/amazingslider-1.css">
+    <script src="sliderengine/initslider-1.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+<nav>	
+
+	<div class="table">
+		
+		<ul>
+			<li><a href="#"></a>NEWSLETTER</li>
+			<li><a href="#"></a>CONTACT</li>
+			<li><a href="#"></a>FORMATION</a></li>
+			<li><a href="#"></a>ACCEUIL</a></li>
+		</ul>
+		<div class="logo">
+		<img src="logo.png"  width="10%">
+		</div>
+</nav>
+<div class="mata">
+	<div class="sene">
+		 <div class="amazingslider-wrapper" id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:1500px;margin:0px auto 56px;">
+        <div class="amazingslider" id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+            <ul class="amazingslider-slides" style="display:none;">
+                <li><img src="markting.jpg" class="baba" alt=""  title="<style>h1{font-size:30px;background-color:grey;height:35px;color:#c90017;border-radius:10px;}h6{font-size:15px;background-color:grey;height:20px;border-radius:10px;color:#c90017;}h1,h6{position:relative;bottom:-100px;font-family:}</style><h1>BIENVENUE A TECH 221<br/></br></h1><h6>une ecole de formation professionnelle</h6>" data-texteffect="Center text"> 
+                </li>
+                <li><img src="dev web.jpg"/> 
+                </li>
+                <li><img src="design.jpg"/>
+                </li>
+                <li><img src="file:///C:/Users/BUREAU/Desktop/projet2/machine.webp"/>
+                </li>
+            </ul>
+            <ul class="amazingslider-thumbnails" style="display:none;">
+                <li><img src="markting.jpg" alt="une ecole de formation"></li>
+                <li><img src="dev web.jpg"></li>
+                <li><img src="design.jpg"></li>
+                <li><img src="file:///C:/Users/BUREAU/Desktop/projet2/machine.webp"></li>
+            </ul>
+        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="Responsive Slider jQuery">Responsive Slider jQuery</a></div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+</nav>
+
+<h2>PRESENTATION DE L'INSTITUT</h2>
+<div class='baye'>
+<div class="presentation">
+	<label><u>RAISON D'ETRE</u></label>
+	<p>	TECH 221 est une ecole de<br>
+		formation qui evolue dans le<br>
+		domaine du numerique dont<br> 
+		sa raison d'etre est d'apporter<br>
+		sa rouche personnelle sur les<br> 
+		methodes d'enseignement<br> 
+		grace a sa pedogogie active
+	</p>
+</div>
+<div class="ambition">
+	<label><u>AMBITIONS</u></label>
+	<p>	L'ambition de TECH 221 est<br>
+		d'integrer le numerique dans<br>
+		l'education par l'elaboration de<br>
+		stratgies pedagogiques inno<br>
+		vantes
+	</p>
+</div>
+
+<div class="objectifs">
+	<label><u>OBJECTIFS</u></label>
+	<p>	L'objectif de TECH 221 est de se<br>
+		hisser au sommet de l'enseigne<br>
+		ment numerique grace a sa pe<br>
+		dagogie active
+	</p>
+</div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
+		
